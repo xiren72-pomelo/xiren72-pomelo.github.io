@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://xiren72-pomelo.github.io//sitemap.xml
